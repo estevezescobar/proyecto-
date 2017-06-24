@@ -1,0 +1,18 @@
+D:\gauss jordan\gauss jordan\bin\Debug\gauss jordan.exe.config
+D:\gauss jordan\gauss jordan\bin\Debug\gauss jordan.exe
+D:\gauss jordan\gauss jordan\bin\Debug\gauss jordan.pdb
+D:\gauss jordan\gauss jordan\obj\Debug\gauss jordan.csprojResolveAssemblyReference.cache
+D:\gauss jordan\gauss jordan\obj\Debug\gauss jordan.exe
+D:\gauss jordan\gauss jordan\obj\Debug\gauss jordan.pdb
+D:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.exe.config
+D:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.exe
+D:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.pdb
+D:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.exe
+D:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.pdb
+D:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.csprojResolveAssemblyReference.cache
+F:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.exe.config
+F:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.exe
+F:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.pdb
+F:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.exe
+F:\gauss jordan #1\gauss jordan\bin\Debug\gauss jordan.pdb
+F:\gauss jordan #1\gauss jordan\obj\Debug\gauss jordan.csprojResolveAssemblyReference.cache
